@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FormationsExample",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"AllDesktop",
+		"LinuxNoEditor",
+		"LinuxAArch64NoEditor",
+		"WindowsNoEditor",
+		"HoloLens",
+		"IOS",
+		"MacNoEditor",
+		"Lumin",
+		"TVOS",
+		"WindowsNoEditorWin32"
+	]
+}

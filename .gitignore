@@ -1,0 +1,26 @@
+##########################
+# Unreal Generated Files #
+##########################
+Build
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+# Compiled source files for the engine to use
+Plugins/*/Intermediate/*
+
+# Built data for maps
+*_BuiltData.uasset
+
+
+
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+.vs
+.idea
+
+Plugins/*
+FormationsExample.sln
