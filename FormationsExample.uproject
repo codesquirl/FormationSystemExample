@@ -13,17 +13,5 @@
 				"AIModule"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"AllDesktop",
-		"LinuxNoEditor",
-		"LinuxAArch64NoEditor",
-		"WindowsNoEditor",
-		"HoloLens",
-		"IOS",
-		"MacNoEditor",
-		"Lumin",
-		"TVOS",
-		"WindowsNoEditorWin32"
 	]
 }
