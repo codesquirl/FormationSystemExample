@@ -18,6 +18,11 @@
 		{
 			"Name": "SunPosition",
 			"Enabled": true
+		},
+		{
+			"Name": "FormationSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6e6c52f5471746f5b5bb55d7998bd849"
 		}
 	]
 }
