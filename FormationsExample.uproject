@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -23,6 +23,15 @@
 			"Name": "FormationSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6e6c52f5471746f5b5bb55d7998bd849"
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
