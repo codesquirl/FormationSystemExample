@@ -6,7 +6,7 @@ Unreal Engine Project for the Formation System Plugin and to showcase simple usa
 View the [Formation System Plugin](https://www.unrealengine.com/marketplace/en-US/product/6e6c52f5471746f5b5bb55d7998bd849) on the Unreal Marketplace.
 
 
-**Engine Version: 5.1**  
+**Engine Version: 5.2**  
 For older engine versions, see repository [tags](https://github.com/codesquirl/FormationSystemExample/tags).
 
 ## Install the Plugin
@@ -27,3 +27,12 @@ Once that is done, double click the .sln file to open it in your IDE.
 When the project has loaded, right click the 'FormationExample' project and select 'Build selected project'
 
 Once the project has been built, you should be able to open it.
+
+## Manual Update
+If you have a newer version of Unreal Engine than this project is built against, you can easily switch it to your version.
+
+Simply right-click on the `FormationExample.uproject` file.
+
+If you're on Windows 11, select 'Show more options'
+
+Select 'Switch Unreal Engine version...' from the context menu and choose your engine version.
